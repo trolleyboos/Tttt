@@ -1,7 +1,8 @@
 # CtrlCV
 ```python
-age = int(input('Enter your age: '))
-age += 1
-print('Your age is ' + age)
+x = int(input("Enter the first number: "))
+y = int(input("Enter the second number: "))
+z = x * y
+print(x, "multiplied by", y, "is", z)
 ```
 
